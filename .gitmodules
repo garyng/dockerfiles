@@ -1,0 +1,6 @@
+[submodule "texlive"]
+	path = texlive
+	url = git@github.com:garyng/texlive.git
+[submodule "jupyter"]
+	path = jupyter
+	url = git@github.com:garyng/jupyter.git
