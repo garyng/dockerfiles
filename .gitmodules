@@ -4,3 +4,6 @@
 [submodule "jupyter"]
 	path = jupyter
 	url = git@github.com:garyng/jupyter.git
+[submodule "texlive-full"]
+	path = texlive-full
+	url = git@github.com:garyng/texlive-full.git
