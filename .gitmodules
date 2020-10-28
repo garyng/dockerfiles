@@ -9,4 +9,4 @@
 	url = git@github.com:garyng/texlive-full.git
 [submodule "hidrdd-docker"]
 	path = hidrdd-docker
-	url = git@github.com:garyng/dockerfiles.git
+	url = git@github.com:garyng/hidrdd-docker.git
