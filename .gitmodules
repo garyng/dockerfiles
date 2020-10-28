@@ -7,3 +7,6 @@
 [submodule "texlive-full"]
 	path = texlive-full
 	url = git@github.com:garyng/texlive-full.git
+[submodule "hidrdd-docker"]
+	path = hidrdd-docker
+	url = git@github.com:garyng/dockerfiles.git
